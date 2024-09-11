@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @impizza34
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me discord, impizza34#7248
 - #
 
